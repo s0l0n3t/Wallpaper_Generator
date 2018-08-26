@@ -27,4 +27,3 @@ while True:
 	else:
 		break
 
-#D:\Projelerim\python3\Random_Download_Wallpaper\downloaders
